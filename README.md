@@ -51,4 +51,4 @@ The "Ad Insert Hub" module is designed to provide robust and flexible ad managem
 
 ## License
 
-Essential WP Tools is licensed under the GPL v2 or later.
+"Ad Insert Hub" is licensed under the GPL v2 or later.

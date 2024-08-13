@@ -1,0 +1,59 @@
+Ad Insert Hub (EWPT Module)
+
+Planned Premium Features Overview
+
+1. Diverse Ad Types
+Multiple Ad Formats: The module supports the creation of various types of ads, such as image ads, link ads, text ads, and code ads. This versatility allows users to choose the most effective ad format for their content and audience.
+
+Custom Ad Templates: Users can create and save custom ad templates for repeated use, enabling quick and consistent ad deployment across their site.
+
+2. Page Specefic Ad
+Page Inclution: Run ad slot that are only for spcefic page(s).
+
+Page Exclusion: Exclude pages that won't display the specefic ad slot.
+
+3. Advanced Ad Tracking
+Click Tracking: Ad clicks (excluding code ads) are automatically tracked and displayed on a dynamic dashboard. Users can view comprehensive graphs and reports that detail ad performance over time, helping them to optimize their campaigns.
+
+Conversion Tracking: In addition to click tracking, the module can track conversions (e.g., purchases, sign-ups) resulting from ad interactions, providing deeper insights into ad effectiveness.
+
+4. User-Submitted Ads
+Frontend Ad Submission: Users can submit ads directly from the frontend of the site. They can track their ad clicks and monitor performance metrics through a personalized dashboard.
+
+Automated Invoicing: An invoice is automatically generated based on the number of ad clicks and other relevant parameters. Users can either pay invoices manually or opt for automatic payments through a prepaid balance in their virtual wallet.
+
+Prepaid and Postpaid Options: Admins can configure whether ads are prepaid or postpaid. Prepaid ads will only run if the user's virtual wallet has sufficient funds. Postpaid ads will generate an invoice that must be paid before the ad continues to run.
+
+5. User Virtual Wallet
+Virtual Wallet System: The module includes a fully integrated virtual wallet system where users can add funds. The wallet can be used to pay for ads based on clicks, impressions, or other predefined parameters.
+
+Flexible Payment Options: Users can top up their virtual wallet via various payment methods (e.g., credit card, PayPal, bank transfer). The wallet balance can be used across all EWPT modules, providing a seamless payment experience.
+
+6. Geo-Targeted Ads
+Location-Based Ad Targeting: Users can create ads that target specific geographic locations. This feature is ideal for businesses aiming to reach a local audience or for international campaigns that need to target specific regions.
+
+7. Scheduling and Expiry
+Ad Scheduling: Users can schedule their ads to run at specific times or dates, allowing for strategic ad placements based on audience activity patterns.
+
+Ad Expiry Management: Ads can be set to expire after a certain period or once they reach a predefined number of clicks or impressions, ensuring that outdated or irrelevant ads are automatically removed.
+
+8. A/B Testing
+Split Testing Capabilities: Users can run A/B tests on different ad variations to determine which performs better. The module will automatically split traffic between different versions and provide detailed analytics on the results.
+
+9. Responsive Design and Mobile Optimization
+Mobile-Optimized Ads: All ad formats are responsive and optimized for mobile devices, ensuring that ads look great and perform well on any screen size.
+
+Adaptive Layouts: Ads can automatically adjust their layout based on the user's device, providing an optimal viewing experience.
+
+10. Enhanced Security and Fraud Detection
+Click Fraud Prevention: The module includes advanced algorithms to detect and prevent click fraud, ensuring that advertisers only pay for genuine clicks.
+
+Secure Transactions: All payment transactions, including those made through the virtual wallet, are encrypted and secured with the latest security protocols.
+
+11. Comprehensive Reporting
+Detailed Analytics Dashboard: The module provides a robust analytics dashboard with detailed reports on ad performance, including clicks, conversions, geographic data, and more.
+
+Exportable Reports: Users can export reports in various formats (e.g., CSV, PDF) for further analysis or presentation.
+
+
+These enhanced and additional features make the Ad Insert Hub module a powerful premium tool for users to manage and optimize their ad campaigns directly from their WordPress site.

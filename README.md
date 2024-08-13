@@ -9,7 +9,6 @@ Manage ad placement on your website with our comprehensive module, compatible wi
 ## GitHub Release: [Download on Github Releases](https://github.com/RactStudio/essential-wp-tools/releases)
 ## EWPT Modules: [Download Modules Packages](https://github.com/RactStudio/ewpt-modules/)
 
-
 ## "Ad Insert Hub" Module Features
 
 ### 1. Ad Slot Management:
